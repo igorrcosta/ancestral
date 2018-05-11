@@ -1,4 +1,2 @@
-grep 'Granulicella tundricola' L3_headers
-grep 'ribosomal protein L3 ' complete.nonredundant_protein.* > ~/ancestral/L3_headers
-#wget -nc ftp://130.14.250.13/refseq/release/complete/complete.nonredundant_protein.*.protein.faa.gz
-wget -nc ftp://130.14.250.13/refseq/release/complete/complete.[0-9]*.protein.faa.gz
+#wget -nc ftp://130.14.250.13/refseq/release/complete/complete.[0-9]*.protein.faa.gz
+grep 'ribosomal protein L3 ' ../refprot/complete.* > ./L3_headers
