@@ -1,0 +1,95 @@
+Granulicella tundricola MP5ACTX9
+Granulicella mallensis MP5ACTX8
+Terriglobus roseus DSM 18391
+Propionibacterium acidipropionici ATCC 4875
+Saccharothrix espanaensis DSM 44229
+Catenulispora acidiphila DSM 44928
+Kocuria rhizophila DC2201
+Hydrogenobaculum sp. Y04AAS1
+Thermocrinis albus DSM 14484
+Sulfurihydrogenibium azorense Az-Fu1
+Thermovibrio ammonificans HB-1
+Alistipes finegoldii DSM 172422
+Emticicia oligotrophica DSM 17448
+Fibrella aestuarina BUZ 2
+Muricauda ruestringensis DSM 13258
+Chloroherpeton thalassium ATCC 35110
+Prosthecochloris aestuarii DSM 271
+Pelodictyon phaeoclathratiforme BU-1
+Chlorobaculum parvum NCIB 8327
+Simkania negevensis Z
+Waddlia chondrophila WSU 86-1044
+Chlamydia trachomatis D/UW-3/CX
+Parachlamydia acanthamoebae UV-7
+Herpetosiphon aurantiacus DSM 785
+Dehalogenimonas lykanthroporepellens BL-DC-9
+Roseiflexus sp. RS-1
+Caldilinea aerophila DSM 14535 = NBRC 104270
+Trichodesmium erythraeum IMS101
+Acaryochloris marina MBIC11017
+Stanieria cyanosphaera PCC 7437
+Geitlerinema sp. PCC 7407
+Oceanithermus profundus DSM 14977
+Thermus thermophilus HB8
+Meiothermus silvanus DSM 9946
+Marinithermus hydrothermalis DSM 14884
+Lactobacillus plantarum ZJ316
+Pediococcus claussenii ATCC BAA-344
+Streptococcus pyogenes M1 GAS
+Lysinibacillus sphaericus C3-41
+Eubacterium limosum KIST612
+Faecalibacterium prausnitzii L2-6
+Thermosediminibacter oceani DSM 16646
+Halanaerobium hydrogeniformans
+Aster yellows witches'-broom phytoplasma AYWB
+Onion yellows phytoplasma OY-M
+Strawberry lethal yellows phytoplasma (CPA) str. NZSb11
+Ureaplasma parvum serovar 3 str. ATCC 700970
+Veillonella parvula DSM 2008
+Selenomonas ruminantium subsp. lactilytica TAM6421
+Acidaminococcus intestini RyC-MR95
+Megamonas hypermegale ART12/1
+Leptotrichia buccalis C-1013-b
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+Ilyobacter polytropus DSM 2926
+Streptobacillus moniliformis DSM 12112
+Rhodopirellula baltica SH 1
+Planctomyces brasiliensis DSM 5305
+Singulisphaera acidiphila DSM 18658
+Phycisphaera mikurensis NBRC 102666
+Methylocella silvestris BL2
+Gluconobacter oxydans H24
+Sphingopyxis alaskensis RB2256
+Paracoccus denitrificans PD1222
+Dechlorosoma suillum PS
+Nitrosospira multiformis ATCC 25196
+Sideroxydans lithotrophicus ES-1
+Thauera sp. MZ1T
+Desulfovibrio vulgaris str. Hildenborough
+Syntrophobacter fumaroxidans MPOB
+Bdellovibrio bacteriovorus HD100
+Desulfocapsa sulfexigens DSM 10523
+Sulfurospirillum barnesii SES-3
+Nitratifractor salsuginis DSM 16511
+Nitratiruptor sp. SB155-2
+Sulfurovum sp. NBC37-1
+Teredinibacter turnerae T7901
+Marinobacter adhaerens HP15
+Cellvibrio japonicus Ueda107
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+Turneriella parva DSM 21527
+Spirochaeta smaragdinae DSM 11293
+Treponema pallidum subsp. pallidum str. Nichols
+Leptospira biflexa serovar Patoc strain 'Patoc 1 (Paris)'
+Aminobacterium colombiense DSM 12261
+Thermovirga lienii DSM 17291
+Fretibacterium fastidiosum
+Thermanaerovibrio acidaminovorans DSM 6589
+Thermosipho africanus TCF52B
+Kosmotoga olearia TBF 19.5.1
+Petrotoga mobilis SJ95
+Thermotoga maritima MSB8
+Akkermansia muciniphila ATCC BAA-835
+Elusimicrobium minutum Pei191
+Gemmatimonas aurantiaca T-27
+Chthonomonas calidirosea T49
