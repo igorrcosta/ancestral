@@ -51,7 +51,6 @@ def run_grep(species, header_file = '/home/igor/ancestral/L3_headers2'):
         for l in header_f:
             sp = l.split('[')[-1].split(']')[0] 
             if sp in species:
-                print sp 
                 found.append(l.strip())
     return '\n'.join(found)
 
@@ -60,8 +59,8 @@ def main(args):
      the header file, assuring there is one seq for sp. Find the sequence in the refprot file, concatenate and align.'''
     species = get_species(args['species'])
     for k in species:
-        with open(k+'_headers2', 'w') as k_header: #headers of each kingdom
-            headers = run_grep(args['headers'], species[k])
+        with open(k+'_headers', 'w') as k_header: #headers of each kingdom
+            headers = run_grep(species[k], args['headers'])
             k_header.write(headers)
 
 if __name__ == '__main__':
